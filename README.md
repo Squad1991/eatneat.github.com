@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1177" height="464" alt="image" src="https://github.com/user-attachments/assets/177b0a2e-023a-41e4-86da-b7330b6b7729" />
+  <img alt="eatneat" src="https://github.com/user-attachments/assets/177b0a2e-023a-41e4-86da-b7330b6b7729" />
 </p>
 
 # 🍴 EatNeat  
