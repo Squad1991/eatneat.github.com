@@ -2,8 +2,6 @@
   <img width="1177" height="464" alt="image" src="https://github.com/user-attachments/assets/177b0a2e-023a-41e4-86da-b7330b6b7729" />
 </p>
 
-<div style="border: 2px solid #eee; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15); padding: 25px; max-width: 700px; margin: auto;">
-
 # 🍴 EatNeat  
 
 EatNeat brings you **fresh, homemade, and wholesome food** delivered right to your doorstep.  
@@ -34,5 +32,3 @@ We specialize in simple yet delicious comfort meals that are perfect for everyda
 ## 🤝 Our Promise  
 At EatNeat, we believe food should be **simple, safe, and satisfying**.  
 Every dish is prepared with care to ensure you enjoy a truly hygienic and delicious meal at home.  
-
-</div>
